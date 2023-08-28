@@ -27,6 +27,7 @@ maintainer/package-versions
 
 # Compressed files
 *.tar*
+!samples/xtensa-esp32s3-overlayed/xtensa_esp32s3-overlay.tar.gz
 *.zip
 *.xz
 *.7zip
